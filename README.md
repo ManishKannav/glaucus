@@ -70,11 +70,6 @@ NEXT_PUBLIC_FIREBASE_APP_ID=your-app-id
 NEXT_PUBLIC_GEMINI_API_KEY=your-gemini-api-key
 
 
-----
-## 👤 Contributors
-
-- [@shubhamgavade04](https://github.com/shubhamgavade04) - Creator & Maintainer 
-- [@Abhikhomane45](https://github.com/Abhikhomane45) - Contributor (README, UI improvements)
 -----
 
 ### 1️⃣ Clone the Repo
